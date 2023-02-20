@@ -1,6 +1,10 @@
 HELP.md
+.allure
 .gradle
 build/
+node_modules
+data
+data_postgres
 
 ### STS ###
 .apt_generated
@@ -41,3 +45,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+/data/
