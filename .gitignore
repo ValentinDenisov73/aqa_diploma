@@ -4,7 +4,7 @@ HELP.md
 build/
 node_modules
 data
-data_postgres/
+/data_postgres/
 
 ### STS ###
 .apt_generated
