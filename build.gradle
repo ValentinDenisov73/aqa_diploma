@@ -13,7 +13,6 @@ compileJava.options.encoding = "UTF-8"
 compileTestJava.options.encoding = "UTF-8"
 
 allure {
-//    autoconfigure = true
     version = '2.16.1'
     useJUnit5 {
         version = '2.16.1'
@@ -21,12 +20,12 @@ allure {
 }
 
 repositories {
-//    jcenter()
     mavenCentral()
 }
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.9.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine'
     testImplementation 'mysql:mysql-connector-java:8.0.30'
     testImplementation 'org.postgresql:postgresql:42.3.8'
     testImplementation 'com.codeborne:selenide:6.8.1'
