@@ -1,6 +1,10 @@
 # Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
 ## Документация
 [План тестирования](https://github.com/ValentinDenisov73/aqa_diploma/blob/main/documentation/Plan.md)
+
+[Отчет о проведенном тестировании](https://github.com/ValentinDenisov73/aqa_diploma/blob/main/documentation/Report.md)
+
+[Отчет о проведенной автоматизации](https://github.com/ValentinDenisov73/aqa_diploma/blob/main/documentation/Summary.md)
 ## Задача:
 Автоматизировать сценарии комплексного сервиса, взаимодействующего с СУБД и API Банка. Приложение представляет собой веб-сервис.
 ![Скриншот](https://github.com/ValentinDenisov73/aqa_diploma/blob/main/documentation/service.png)
