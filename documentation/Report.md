@@ -13,6 +13,8 @@
 - успешных - 12
 - неуспешных - 40
 
+![Скриншот](https://github.com/ValentinDenisov73/aqa_diploma/blob/main/documentation/2023-03-11.png)
+
 ### Количество оформленных баг-репортов: 10
 
 ### Общие рекомендации
